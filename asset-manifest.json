@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-bootstrap/static/css/main.57eed376.chunk.css",
+    "main.js": "/portfolio-react-bootstrap/static/js/main.bc4ad2bd.chunk.js",
+    "main.js.map": "/portfolio-react-bootstrap/static/js/main.bc4ad2bd.chunk.js.map",
+    "runtime-main.js": "/portfolio-react-bootstrap/static/js/runtime-main.dc67e7eb.js",
+    "runtime-main.js.map": "/portfolio-react-bootstrap/static/js/runtime-main.dc67e7eb.js.map",
+    "static/css/2.adb406d7.chunk.css": "/portfolio-react-bootstrap/static/css/2.adb406d7.chunk.css",
+    "static/js/2.2482d2fb.chunk.js": "/portfolio-react-bootstrap/static/js/2.2482d2fb.chunk.js",
+    "static/js/2.2482d2fb.chunk.js.map": "/portfolio-react-bootstrap/static/js/2.2482d2fb.chunk.js.map",
+    "static/js/3.7b8be675.chunk.js": "/portfolio-react-bootstrap/static/js/3.7b8be675.chunk.js",
+    "static/js/3.7b8be675.chunk.js.map": "/portfolio-react-bootstrap/static/js/3.7b8be675.chunk.js.map",
+    "index.html": "/portfolio-react-bootstrap/index.html",
+    "static/css/2.adb406d7.chunk.css.map": "/portfolio-react-bootstrap/static/css/2.adb406d7.chunk.css.map",
+    "static/css/main.57eed376.chunk.css.map": "/portfolio-react-bootstrap/static/css/main.57eed376.chunk.css.map",
+    "static/js/2.2482d2fb.chunk.js.LICENSE.txt": "/portfolio-react-bootstrap/static/js/2.2482d2fb.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.9277ecea.png": "/portfolio-react-bootstrap/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/portfolio-react-bootstrap/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/portfolio-react-bootstrap/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/portfolio-react-bootstrap/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/logo.ec3a2ddd.jpg": "/portfolio-react-bootstrap/static/media/logo.ec3a2ddd.jpg",
+    "static/media/mywork1.fc3291ff.JPG": "/portfolio-react-bootstrap/static/media/mywork1.fc3291ff.JPG",
+    "static/media/mywork2.d84f67ee.JPG": "/portfolio-react-bootstrap/static/media/mywork2.d84f67ee.JPG",
+    "static/media/selfie.ed72982a.jpg": "/portfolio-react-bootstrap/static/media/selfie.ed72982a.jpg",
+    "static/media/App.css": "/portfolio-react-bootstrap/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc67e7eb.js",
+    "static/css/2.adb406d7.chunk.css",
+    "static/js/2.2482d2fb.chunk.js",
+    "static/css/main.57eed376.chunk.css",
+    "static/js/main.bc4ad2bd.chunk.js"
+  ]
+}

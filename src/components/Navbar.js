@@ -3,6 +3,7 @@ import '../App.css'
 import { Link } from 'react-scroll'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
+import HamBtn from './HamBtn';
 export const SingleLi = ({
   name,
   to,
@@ -76,8 +77,8 @@ const Navbar = () => {
           </Link>
         </div>
 
-        <div onClick={handleHamburger} className='hamburger'>
-          <FontAwesomeIcon icon={faBars} />
+        <div className='hamburger'>
+          <HamBtn handleHamburger={handleHamburger} toggleHamburger={toggleHamburger}/>
         </div>
 
         
